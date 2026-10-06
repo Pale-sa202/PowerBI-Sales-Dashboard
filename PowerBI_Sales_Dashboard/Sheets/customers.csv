@@ -1,0 +1,301 @@
+customer_id,first_name,last_name,age,province,branch,join_date
+C0001,Bongani,Naidoo,33,Western Cape,Cape Town CBD,2020-07-03
+C0002,Zanele,Radebe,23,KwaZulu-Natal,Pietermaritzburg,2024-08-15
+C0003,Thabo,Van der Merwe,31,Mpumalanga,Nelspruit,2020-08-10
+C0004,Ntando,Pretorius,63,Northern Cape,Kimberley,2024-02-11
+C0005,Ayanda,Joubert,35,Mpumalanga,Nelspruit,2018-01-27
+C0006,Tumi,Steyn,35,KwaZulu-Natal,Pietermaritzburg,2019-09-29
+C0007,Zanele,Van der Merwe,42,Eastern Cape,East London,2019-02-01
+C0008,Sanele,Naidoo,69,Limpopo,Polokwane,2018-06-27
+C0009,David,Fourie,23,North West,Rustenburg,2024-03-11
+C0010,Refilwe,Pretorius,63,Free State,Bloemfontein,2018-10-12
+C0011,Yolanda,Mahlangu,23,Gauteng,Rosebank,2020-08-11
+C0012,Amahle,Coetzee,58,Western Cape,Bellville,2022-02-03
+C0013,Andile,Pretorius,60,KwaZulu-Natal,Umhlanga,2020-12-29
+C0014,Chantel,Khumalo,52,Western Cape,Stellenbosch,2020-09-29
+C0015,Karabo,Naidoo,58,KwaZulu-Natal,Umhlanga,2024-03-31
+C0016,Lindiwe,Dlamini,32,Eastern Cape,East London,2018-05-12
+C0017,Amahle,Van der Merwe,31,Limpopo,Polokwane,2024-05-12
+C0018,Chantel,Mabaso,43,Limpopo,Polokwane,2023-02-23
+C0019,Johan,Zulu,65,KwaZulu-Natal,Umhlanga,2024-04-18
+C0020,Bongani,Joubert,45,Northern Cape,Kimberley,2024-07-18
+C0021,Kagiso,Botha,50,Mpumalanga,Nelspruit,2023-07-15
+C0022,Sibusiso,Nkosi,27,Western Cape,Cape Town CBD,2019-10-18
+C0023,Karabo,Fourie,56,Mpumalanga,Nelspruit,2023-04-02
+C0024,Ntando,Mokoena,61,Northern Cape,Kimberley,2019-04-15
+C0025,Yolanda,Steyn,25,Northern Cape,Kimberley,2021-04-17
+C0026,Ayanda,Mokoena,64,Mpumalanga,Nelspruit,2020-12-14
+C0027,Boitumelo,Nkosi,73,Northern Cape,Kimberley,2021-05-07
+C0028,Johan,Sithole,66,Northern Cape,Kimberley,2019-10-24
+C0029,Sanele,Steyn,49,Northern Cape,Kimberley,2018-03-21
+C0030,Michelle,Mahlangu,33,Western Cape,Bellville,2018-08-26
+C0031,Sipho,Mabaso,70,Eastern Cape,Gqeberha,2018-10-11
+C0032,Johan,Mabaso,53,Northern Cape,Kimberley,2019-11-08
+C0033,Lerato,Radebe,66,Free State,Bloemfontein,2020-04-03
+C0034,Werner,Sithole,46,Free State,Bloemfontein,2023-10-21
+C0035,Kagiso,Zulu,22,North West,Rustenburg,2021-10-16
+C0036,Refilwe,Zulu,18,Gauteng,Rosebank,2018-10-18
+C0037,Sipho,Dlamini,73,Gauteng,Rosebank,2021-09-15
+C0038,Kagiso,Naidoo,60,Western Cape,Stellenbosch,2023-06-12
+C0039,Bongani,Joubert,54,Eastern Cape,Gqeberha,2023-04-21
+C0040,Francois,Ndlovu,30,Eastern Cape,East London,2019-01-22
+C0041,Tumi,Sithole,45,Western Cape,Stellenbosch,2022-08-11
+C0042,Werner,Nkosi,21,North West,Rustenburg,2022-07-08
+C0043,Kagiso,Pretorius,30,Limpopo,Polokwane,2024-01-06
+C0044,Tumi,Khumalo,35,North West,Rustenburg,2023-03-10
+C0045,Ayanda,Radebe,24,Eastern Cape,Gqeberha,2018-07-27
+C0046,Sipho,Zulu,28,Northern Cape,Kimberley,2022-07-23
+C0047,Lerato,Fourie,75,North West,Rustenburg,2018-08-29
+C0048,Thabo,Fourie,34,KwaZulu-Natal,Umhlanga,2023-02-07
+C0049,Palesa,Radebe,60,Free State,Bloemfontein,2023-06-17
+C0050,Pieter,Pretorius,21,KwaZulu-Natal,Durban CBD,2024-06-30
+C0051,Bongani,Steyn,21,Northern Cape,Kimberley,2018-07-25
+C0052,Naledi,Kruger,23,North West,Rustenburg,2020-02-01
+C0053,Sipho,Zulu,43,Western Cape,Stellenbosch,2019-05-07
+C0054,Sanele,Van der Merwe,44,Eastern Cape,Gqeberha,2024-07-18
+C0055,David,Naidoo,31,Northern Cape,Kimberley,2021-07-10
+C0056,Karabo,Botha,60,Eastern Cape,East London,2021-05-13
+C0057,David,Van der Merwe,18,North West,Rustenburg,2023-02-21
+C0058,Ntando,Pretorius,50,Western Cape,Cape Town CBD,2020-12-22
+C0059,Michelle,Van der Merwe,74,KwaZulu-Natal,Umhlanga,2020-09-27
+C0060,Mieke,Coetzee,71,Limpopo,Polokwane,2024-02-04
+C0061,Werner,Radebe,37,Free State,Bloemfontein,2019-03-01
+C0062,Zanele,Nkosi,65,KwaZulu-Natal,Umhlanga,2024-03-16
+C0063,Pieter,Molefe,31,KwaZulu-Natal,Umhlanga,2021-11-05
+C0064,Boitumelo,Mabaso,34,Eastern Cape,East London,2018-07-28
+C0065,Tumi,Naidoo,20,Western Cape,Stellenbosch,2018-01-15
+C0066,Chantel,Naidoo,28,Limpopo,Polokwane,2022-12-15
+C0067,Ntando,Mokoena,25,Northern Cape,Kimberley,2018-11-05
+C0068,Naledi,Sithole,55,KwaZulu-Natal,Pietermaritzburg,2024-03-13
+C0069,Johan,Dlamini,37,KwaZulu-Natal,Umhlanga,2022-02-02
+C0070,Lerato,Zulu,60,Gauteng,Midrand,2019-02-26
+C0071,Sanele,Botha,33,Limpopo,Polokwane,2019-10-28
+C0072,Thabo,Khumalo,65,KwaZulu-Natal,Umhlanga,2021-09-22
+C0073,Amahle,Khumalo,68,Mpumalanga,Nelspruit,2019-03-19
+C0074,Sibusiso,Mabaso,32,Mpumalanga,Nelspruit,2020-03-28
+C0075,Pieter,Zulu,32,North West,Rustenburg,2018-04-07
+C0076,Nomvula,Naidoo,73,Eastern Cape,East London,2018-10-12
+C0077,Chantel,Kruger,43,Free State,Bloemfontein,2024-01-06
+C0078,Zanele,Naidoo,29,Limpopo,Polokwane,2024-07-06
+C0079,Zanele,Molefe,45,Free State,Bloemfontein,2021-11-16
+C0080,Sanele,Kruger,25,Limpopo,Polokwane,2022-04-27
+C0081,Naledi,Ndlovu,18,Eastern Cape,East London,2023-10-31
+C0082,Andile,Ndlovu,22,Northern Cape,Kimberley,2021-09-14
+C0083,Bongani,Mahlangu,50,Limpopo,Polokwane,2021-06-20
+C0084,Karabo,Mahlangu,53,Mpumalanga,Nelspruit,2019-06-06
+C0085,Werner,Fourie,61,Eastern Cape,East London,2019-12-14
+C0086,Ntando,Mokoena,37,Free State,Bloemfontein,2021-03-21
+C0087,Francois,Joubert,56,Eastern Cape,East London,2021-08-12
+C0088,Ayanda,Pretorius,50,North West,Rustenburg,2023-04-23
+C0089,Sipho,Mahlangu,50,KwaZulu-Natal,Pietermaritzburg,2024-12-11
+C0090,Lindiwe,Zulu,61,Limpopo,Polokwane,2021-06-25
+C0091,Johan,Mokoena,20,Eastern Cape,Gqeberha,2020-09-29
+C0092,Ayanda,Ndlovu,74,North West,Rustenburg,2024-06-15
+C0093,Ruan,Fourie,33,Eastern Cape,East London,2019-08-28
+C0094,Yolanda,Ndlovu,32,Gauteng,Sandton,2019-12-22
+C0095,Naledi,Radebe,33,Northern Cape,Kimberley,2019-05-13
+C0096,Francois,Coetzee,60,North West,Rustenburg,2023-12-16
+C0097,Yolanda,Coetzee,57,Northern Cape,Kimberley,2023-08-30
+C0098,Michelle,Khumalo,65,Mpumalanga,Nelspruit,2023-04-29
+C0099,Yolanda,Zulu,71,North West,Rustenburg,2021-02-09
+C0100,Chantel,Zulu,35,Northern Cape,Kimberley,2022-12-07
+C0101,Pieter,Zulu,35,Western Cape,Stellenbosch,2021-10-07
+C0102,Johan,Botha,32,Limpopo,Polokwane,2022-04-18
+C0103,Lerato,Van der Merwe,44,KwaZulu-Natal,Pietermaritzburg,2022-07-28
+C0104,Tumi,Dlamini,31,Limpopo,Polokwane,2022-09-17
+C0105,Sibusiso,Joubert,42,Mpumalanga,Nelspruit,2023-05-08
+C0106,Pieter,Fourie,72,Gauteng,Midrand,2022-09-13
+C0107,Ruan,Zulu,35,Northern Cape,Kimberley,2022-11-21
+C0108,Karabo,Steyn,60,North West,Rustenburg,2022-07-15
+C0109,David,Botha,57,KwaZulu-Natal,Umhlanga,2023-12-28
+C0110,Refilwe,Joubert,60,Gauteng,Pretoria CBD,2018-04-22
+C0111,Tumi,Botha,73,Western Cape,Stellenbosch,2023-03-07
+C0112,Amahle,Fourie,38,KwaZulu-Natal,Durban CBD,2020-05-16
+C0113,Nomvula,Fourie,35,North West,Rustenburg,2022-09-23
+C0114,Ruan,Mokoena,65,Free State,Bloemfontein,2024-01-19
+C0115,Kagiso,Van der Merwe,67,Gauteng,Midrand,2018-06-14
+C0116,Lerato,Mokoena,57,Gauteng,Rosebank,2019-09-17
+C0117,Ruan,Nkosi,54,Eastern Cape,Gqeberha,2020-06-11
+C0118,Yolanda,Sithole,28,North West,Rustenburg,2024-10-17
+C0119,Pieter,Nkosi,55,Western Cape,Cape Town CBD,2018-04-16
+C0120,Karabo,Pretorius,22,Free State,Bloemfontein,2024-08-22
+C0121,Palesa,Mahlangu,72,Eastern Cape,Gqeberha,2024-09-25
+C0122,Francois,Dlamini,40,Western Cape,Stellenbosch,2023-12-23
+C0123,Sipho,Kruger,59,Mpumalanga,Nelspruit,2021-10-29
+C0124,Lindiwe,Mabaso,24,Gauteng,Pretoria CBD,2022-11-11
+C0125,Palesa,Botha,45,Limpopo,Polokwane,2019-12-23
+C0126,Sanele,Radebe,67,Northern Cape,Kimberley,2023-06-04
+C0127,Lindiwe,Joubert,35,North West,Rustenburg,2021-08-13
+C0128,Amahle,Coetzee,33,Eastern Cape,Gqeberha,2023-03-19
+C0129,Thabo,Mabaso,72,Mpumalanga,Nelspruit,2021-08-24
+C0130,Lerato,Sithole,69,KwaZulu-Natal,Umhlanga,2020-11-24
+C0131,Michelle,Molefe,62,Limpopo,Polokwane,2021-02-05
+C0132,Boitumelo,Pretorius,23,Northern Cape,Kimberley,2020-09-15
+C0133,Ntando,Zulu,62,Mpumalanga,Nelspruit,2023-05-05
+C0134,Francois,Mokoena,23,North West,Rustenburg,2021-04-20
+C0135,Palesa,Zulu,37,Eastern Cape,East London,2024-07-10
+C0136,Ntando,Kruger,40,Limpopo,Polokwane,2022-10-09
+C0137,Andile,Coetzee,35,Northern Cape,Kimberley,2021-06-09
+C0138,Zanele,Pretorius,38,Free State,Bloemfontein,2019-05-05
+C0139,Lerato,Pretorius,65,Northern Cape,Kimberley,2023-06-07
+C0140,Zanele,Pretorius,36,Free State,Bloemfontein,2020-07-20
+C0141,Pieter,Mokoena,63,Limpopo,Polokwane,2023-12-28
+C0142,Naledi,Dlamini,53,KwaZulu-Natal,Umhlanga,2021-04-11
+C0143,Sibusiso,Mabaso,24,KwaZulu-Natal,Pietermaritzburg,2018-02-20
+C0144,Ruan,Coetzee,39,Free State,Bloemfontein,2020-01-26
+C0145,Sibusiso,Mabaso,25,Gauteng,Midrand,2018-09-25
+C0146,Sipho,Joubert,58,Mpumalanga,Nelspruit,2018-08-08
+C0147,Francois,Joubert,37,KwaZulu-Natal,Durban CBD,2018-12-15
+C0148,Ntando,Ndlovu,56,Eastern Cape,Gqeberha,2024-09-07
+C0149,Ayanda,Coetzee,37,Eastern Cape,East London,2024-08-07
+C0150,Refilwe,Molefe,21,Mpumalanga,Nelspruit,2024-11-02
+C0151,Chantel,Pretorius,34,Western Cape,Cape Town CBD,2018-11-29
+C0152,Mieke,Radebe,22,KwaZulu-Natal,Durban CBD,2019-10-04
+C0153,Ayanda,Molefe,48,Gauteng,Pretoria CBD,2021-04-07
+C0154,Pieter,Mahlangu,62,Gauteng,Rosebank,2023-02-03
+C0155,Kagiso,Naidoo,68,Western Cape,Stellenbosch,2024-08-12
+C0156,Zanele,Radebe,32,Eastern Cape,East London,2019-09-03
+C0157,Sipho,Dlamini,28,Free State,Bloemfontein,2021-06-13
+C0158,Zanele,Coetzee,62,Free State,Bloemfontein,2021-05-30
+C0159,Boitumelo,Radebe,49,Mpumalanga,Nelspruit,2022-11-29
+C0160,Naledi,Ndlovu,65,Western Cape,Stellenbosch,2021-08-13
+C0161,Sipho,Zulu,61,Free State,Bloemfontein,2024-06-14
+C0162,Refilwe,Dlamini,66,Gauteng,Midrand,2019-12-19
+C0163,David,Naidoo,29,North West,Rustenburg,2024-07-25
+C0164,Sipho,Mabaso,40,Mpumalanga,Nelspruit,2022-07-31
+C0165,Werner,Nkosi,72,Limpopo,Polokwane,2019-10-21
+C0166,Palesa,Mabaso,36,Limpopo,Polokwane,2022-06-29
+C0167,Ayanda,Van der Merwe,38,Northern Cape,Kimberley,2020-10-30
+C0168,Yolanda,Fourie,73,Limpopo,Polokwane,2023-10-09
+C0169,Tumi,Dlamini,30,Gauteng,Pretoria CBD,2023-10-25
+C0170,Chantel,Coetzee,66,Limpopo,Polokwane,2018-07-31
+C0171,Ntando,Botha,36,Eastern Cape,East London,2022-11-30
+C0172,Thabo,Molefe,69,North West,Rustenburg,2020-09-07
+C0173,Ntando,Mokoena,53,KwaZulu-Natal,Umhlanga,2022-07-30
+C0174,Lindiwe,Nkosi,47,Western Cape,Cape Town CBD,2019-04-27
+C0175,David,Mahlangu,50,KwaZulu-Natal,Umhlanga,2021-01-24
+C0176,Ruan,Zulu,47,Mpumalanga,Nelspruit,2024-03-07
+C0177,Lerato,Molefe,50,KwaZulu-Natal,Umhlanga,2019-07-14
+C0178,Yolanda,Ndlovu,39,Western Cape,Bellville,2023-09-11
+C0179,Pieter,Mahlangu,71,Free State,Bloemfontein,2024-08-01
+C0180,Ayanda,Radebe,48,North West,Rustenburg,2021-11-14
+C0181,Ayanda,Steyn,73,Limpopo,Polokwane,2020-02-12
+C0182,Kagiso,Ndlovu,20,Eastern Cape,East London,2021-07-27
+C0183,Karabo,Botha,49,North West,Rustenburg,2018-06-01
+C0184,Refilwe,Steyn,73,KwaZulu-Natal,Pietermaritzburg,2019-02-16
+C0185,Boitumelo,Coetzee,18,North West,Rustenburg,2019-08-14
+C0186,Sipho,Mabaso,68,Mpumalanga,Nelspruit,2020-12-21
+C0187,Chantel,Van der Merwe,72,Limpopo,Polokwane,2021-09-07
+C0188,Nomvula,Mabaso,73,Northern Cape,Kimberley,2024-01-26
+C0189,Kagiso,Mahlangu,32,Gauteng,Sandton,2019-01-06
+C0190,Yolanda,Nkosi,46,Mpumalanga,Nelspruit,2019-11-13
+C0191,Naledi,Steyn,68,Free State,Bloemfontein,2018-08-18
+C0192,Andile,Ndlovu,27,Free State,Bloemfontein,2020-09-27
+C0193,Refilwe,Khumalo,28,Northern Cape,Kimberley,2019-12-19
+C0194,Sibusiso,Fourie,57,Western Cape,Stellenbosch,2020-09-13
+C0195,Kagiso,Coetzee,58,North West,Rustenburg,2020-11-06
+C0196,Werner,Mokoena,75,North West,Rustenburg,2023-03-21
+C0197,Sipho,Coetzee,40,Free State,Bloemfontein,2024-08-03
+C0198,Palesa,Naidoo,47,Free State,Bloemfontein,2021-05-22
+C0199,Sibusiso,Mabaso,24,Eastern Cape,East London,2020-08-29
+C0200,Refilwe,Mahlangu,62,Mpumalanga,Nelspruit,2021-04-24
+C0201,Amahle,Mokoena,54,Gauteng,Pretoria CBD,2018-07-20
+C0202,Yolanda,Zulu,56,North West,Rustenburg,2021-12-14
+C0203,Sanele,Naidoo,61,Eastern Cape,Gqeberha,2019-07-15
+C0204,Chantel,Dlamini,37,Western Cape,Stellenbosch,2022-12-11
+C0205,Bongani,Botha,23,Gauteng,Midrand,2021-04-23
+C0206,Mieke,Pretorius,26,Limpopo,Polokwane,2024-01-19
+C0207,Lindiwe,Khumalo,34,Limpopo,Polokwane,2023-05-28
+C0208,Francois,Nkosi,47,Free State,Bloemfontein,2018-11-05
+C0209,Sibusiso,Fourie,72,KwaZulu-Natal,Durban CBD,2024-04-01
+C0210,Francois,Fourie,18,Limpopo,Polokwane,2020-12-19
+C0211,Ayanda,Sithole,61,Northern Cape,Kimberley,2020-12-09
+C0212,Zanele,Zulu,48,Mpumalanga,Nelspruit,2018-04-13
+C0213,David,Molefe,32,Northern Cape,Kimberley,2018-09-16
+C0214,Chantel,Ndlovu,25,North West,Rustenburg,2019-07-27
+C0215,Pieter,Mabaso,25,Gauteng,Sandton,2019-02-03
+C0216,Karabo,Coetzee,41,Eastern Cape,Gqeberha,2024-01-22
+C0217,Michelle,Ndlovu,59,Mpumalanga,Nelspruit,2019-02-10
+C0218,Amahle,Dlamini,62,North West,Rustenburg,2022-02-26
+C0219,Ayanda,Zulu,72,Eastern Cape,East London,2022-01-25
+C0220,Andile,Radebe,75,Western Cape,Stellenbosch,2022-01-09
+C0221,Amahle,Pretorius,25,Gauteng,Pretoria CBD,2023-02-06
+C0222,Lerato,Molefe,19,Western Cape,Stellenbosch,2018-07-27
+C0223,Johan,Joubert,31,Limpopo,Polokwane,2018-10-09
+C0224,Refilwe,Pretorius,70,Northern Cape,Kimberley,2020-08-12
+C0225,Francois,Molefe,18,Limpopo,Polokwane,2021-02-09
+C0226,Ntando,Naidoo,69,KwaZulu-Natal,Durban CBD,2019-12-16
+C0227,Sibusiso,Mokoena,26,Western Cape,Stellenbosch,2018-03-02
+C0228,Refilwe,Steyn,19,Limpopo,Polokwane,2019-12-15
+C0229,Johan,Ndlovu,51,Free State,Bloemfontein,2019-04-11
+C0230,Ayanda,Sithole,50,Western Cape,Bellville,2024-08-28
+C0231,Boitumelo,Zulu,57,Western Cape,Bellville,2018-06-27
+C0232,Ayanda,Mokoena,21,Northern Cape,Kimberley,2023-05-16
+C0233,Werner,Nkosi,49,Mpumalanga,Nelspruit,2022-12-22
+C0234,Nomvula,Molefe,27,Western Cape,Cape Town CBD,2018-09-27
+C0235,Sanele,Joubert,53,KwaZulu-Natal,Umhlanga,2021-08-24
+C0236,Ayanda,Kruger,56,Mpumalanga,Nelspruit,2022-10-29
+C0237,Zanele,Radebe,64,Western Cape,Stellenbosch,2020-05-30
+C0238,Michelle,Zulu,44,Mpumalanga,Nelspruit,2021-10-20
+C0239,Tumi,Nkosi,38,North West,Rustenburg,2022-10-15
+C0240,Andile,Botha,61,Limpopo,Polokwane,2023-04-27
+C0241,Lindiwe,Van der Merwe,23,Western Cape,Cape Town CBD,2022-11-04
+C0242,Bongani,Sithole,69,Western Cape,Stellenbosch,2019-06-17
+C0243,Refilwe,Radebe,53,Northern Cape,Kimberley,2021-09-12
+C0244,Andile,Ndlovu,73,Western Cape,Bellville,2018-07-30
+C0245,Andile,Nkosi,54,Free State,Bloemfontein,2023-09-10
+C0246,Werner,Mabaso,32,Eastern Cape,Gqeberha,2019-03-20
+C0247,Zanele,Naidoo,54,Limpopo,Polokwane,2020-07-15
+C0248,Sanele,Naidoo,19,Mpumalanga,Nelspruit,2020-01-09
+C0249,David,Steyn,40,Free State,Bloemfontein,2018-01-26
+C0250,Refilwe,Fourie,22,KwaZulu-Natal,Durban CBD,2019-08-05
+C0251,Bongani,Kruger,31,Gauteng,Sandton,2022-03-21
+C0252,Nomvula,Khumalo,41,Mpumalanga,Nelspruit,2021-06-30
+C0253,Michelle,Dlamini,27,Limpopo,Polokwane,2019-10-07
+C0254,Amahle,Coetzee,60,Gauteng,Sandton,2022-10-03
+C0255,Tumi,Naidoo,31,North West,Rustenburg,2023-09-30
+C0256,Tumi,Nkosi,36,Western Cape,Bellville,2024-08-26
+C0257,Naledi,Zulu,43,North West,Rustenburg,2024-09-20
+C0258,Lerato,Mahlangu,31,Gauteng,Sandton,2019-07-17
+C0259,Nomvula,Nkosi,18,Free State,Bloemfontein,2023-07-31
+C0260,Johan,Fourie,52,Mpumalanga,Nelspruit,2020-07-31
+C0261,Sipho,Fourie,73,Northern Cape,Kimberley,2018-06-23
+C0262,Ayanda,Van der Merwe,73,Mpumalanga,Nelspruit,2021-07-06
+C0263,Palesa,Ndlovu,36,Mpumalanga,Nelspruit,2019-04-17
+C0264,Nomvula,Khumalo,69,Mpumalanga,Nelspruit,2024-12-06
+C0265,Sipho,Ndlovu,72,North West,Rustenburg,2019-03-10
+C0266,Refilwe,Fourie,51,Eastern Cape,East London,2018-11-19
+C0267,Bongani,Steyn,32,Mpumalanga,Nelspruit,2021-09-26
+C0268,Boitumelo,Nkosi,51,KwaZulu-Natal,Durban CBD,2023-09-20
+C0269,Andile,Botha,33,Eastern Cape,East London,2019-02-26
+C0270,Lerato,Khumalo,56,KwaZulu-Natal,Umhlanga,2019-09-19
+C0271,Yolanda,Mabaso,47,Western Cape,Cape Town CBD,2024-04-28
+C0272,Sibusiso,Steyn,27,North West,Rustenburg,2022-12-07
+C0273,Ayanda,Mahlangu,68,Western Cape,Bellville,2021-01-30
+C0274,Boitumelo,Van der Merwe,37,Gauteng,Midrand,2023-03-07
+C0275,Naledi,Sithole,71,North West,Rustenburg,2021-03-21
+C0276,Sibusiso,Van der Merwe,57,Western Cape,Stellenbosch,2024-08-30
+C0277,Ayanda,Joubert,53,Northern Cape,Kimberley,2018-06-18
+C0278,Nomvula,Molefe,48,North West,Rustenburg,2023-08-16
+C0279,Ayanda,Nkosi,69,KwaZulu-Natal,Durban CBD,2021-11-07
+C0280,Chantel,Khumalo,20,Western Cape,Stellenbosch,2020-10-11
+C0281,Boitumelo,Kruger,57,North West,Rustenburg,2019-10-13
+C0282,David,Mahlangu,42,Limpopo,Polokwane,2022-08-02
+C0283,Francois,Steyn,22,Limpopo,Polokwane,2021-09-12
+C0284,Werner,Fourie,36,Western Cape,Stellenbosch,2020-10-29
+C0285,Sipho,Joubert,60,KwaZulu-Natal,Umhlanga,2019-08-03
+C0286,Chantel,Fourie,26,Limpopo,Polokwane,2024-09-03
+C0287,Ntando,Fourie,59,Western Cape,Bellville,2021-09-07
+C0288,Palesa,Kruger,23,KwaZulu-Natal,Pietermaritzburg,2022-10-01
+C0289,Thabo,Sithole,37,Northern Cape,Kimberley,2020-01-09
+C0290,Yolanda,Mabaso,30,Eastern Cape,East London,2020-07-16
+C0291,Sipho,Mahlangu,72,KwaZulu-Natal,Durban CBD,2019-02-19
+C0292,Werner,Steyn,74,Northern Cape,Kimberley,2024-12-06
+C0293,Karabo,Botha,28,KwaZulu-Natal,Pietermaritzburg,2020-01-11
+C0294,Ayanda,Dlamini,44,KwaZulu-Natal,Pietermaritzburg,2022-02-01
+C0295,Sanele,Mahlangu,66,Eastern Cape,East London,2023-01-13
+C0296,Pieter,Mabaso,75,Eastern Cape,Gqeberha,2020-03-05
+C0297,Ayanda,Mahlangu,67,Limpopo,Polokwane,2022-04-14
+C0298,Mieke,Pretorius,69,Northern Cape,Kimberley,2024-10-12
+C0299,Naledi,Mabaso,73,KwaZulu-Natal,Umhlanga,2022-03-01
+C0300,Palesa,Kruger,72,Northern Cape,Kimberley,2019-05-26
