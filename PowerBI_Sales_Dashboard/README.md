@@ -1,3 +1,4 @@
+<img width="980" height="572" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/f5001531-2982-4f9c-b88b-baac986eb11d" />
 # Power BI Sales Dashboard
 
 ## Project Overview
